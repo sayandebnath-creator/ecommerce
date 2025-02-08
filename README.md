@@ -1,3 +1,7 @@
+# About
+"This is an eCommerce project built using React for the frontend and Laravel for the backend. It offers a seamless shopping experience with a responsive UI, secure authentication, and efficient order management. The backend is powered by Laravel, ensuring robust API handling and database management, while React provides a fast and dynamic user interface."
+
+
 # Preview
 ![ecommerce](https://github.com/user-attachments/assets/df9f451e-3607-4038-8351-1c74b87a2be1)
 
